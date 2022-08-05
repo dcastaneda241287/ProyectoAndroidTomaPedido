@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_checkall" android:id="@+id/opcCheckall" android:title="@string/opcCheckall"
+        app:showAsAction="always" />
+    <item android:icon="@drawable/ic_sincro" android:id="@+id/opcSincro" android:title="@string/opcSincro"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable-hdpi/btn_facebook.xml" value="0.214" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable-hdpi/btn_fondo_color.xml" value="0.214" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable-ldpi/item_selector.xml" value="0.214" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.214" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/btn_redondeado_white.xml" value="0.214" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/circulo_image.xml" value="0.214" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/dialog_button_selector.xml" value="0.3635" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/dialog_container.xml" value="0.3635" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/dialog_divider.xml" value="0.3635" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/estilo_spiner.xml" value="0.3065" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/ic_buscarpersona.xml" value="0.314" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/ic_busqueda.xml" value="0.3635" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/ic_calendar_new.xml" value="0.314" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/ic_compra.xml" value="0.214" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/ic_launcher_background.xml" value="0.214" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/ic_pendiene.xml" value="0.3635" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/ic_sincronizar.xml" value="0.3635" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/ic_spiner.xml" value="0.215" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/input.xml" value="0.214" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/item_style.xml" value="0.3635" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/progressdialog.xml" value="0.214" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/shape_button_login.xml" value="0.214" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/shape_container_login.xml" value="0.214" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/shape_header.xml" value="0.214" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/shape_login.xml" value="0.2645" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/shape_menu.xml" value="0.214" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/drawable/style_spiner_1.xml" value="0.1935" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/font/fuentes.xml" value="0.3927083333333333" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/activity_busq_cliente.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/activity_busq_producto.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/activity_detalle.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/activity_linea_cred.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/activity_login.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/activity_menu_alterno.xml" value="0.34103260869565216" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/activity_menu_principal.xml" value="0.20677083333333332" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/activity_pedido.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/activity_producto.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/activity_sincronizacion.xml" value="0.20677083333333332" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/activity_sing_up.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/adicional.xml" value="0.20677083333333332" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/alert_dialog.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/alert_dialog_new.xml" value="0.18645833333333334" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/busq_transportista.xml" value="0.20677083333333332" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/cliente_item.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/custom_progress_dialog.xml" value="0.2" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/direccion.xml" value="0.20677083333333332" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/drawer_list_item.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/fragment_article.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/item_framework.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/item_framework_one.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/item_inicial.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/item_spinner.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/pedido_item.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/pendiente.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/pendiente_item.xml" value="0.20677083333333332" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/producto_item.xml" value="0.20677083333333332" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/producto_stock.xml" value="0.20677083333333332" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/resumen.xml" value="0.20677083333333332" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/sincro_item.xml" value="0.20677083333333332" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/transportista.xml" value="0.20677083333333332" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/layout/transportista_item.xml" value="0.20677083333333332" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro/app/src/main/res/menu/menu_bottom.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/drawable-ldpi/item_selector.xml" value="0.3635" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/drawable/avd_copy.xml" value="0.193" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/drawable/avd_cut.xml" value="0.193" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/drawable/avd_delete.xml" value="0.193" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/drawable/avd_share.xml" value="0.193" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/drawable/ic_add_white_24px.xml" value="0.215" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/drawable/ic_buscarpersona.xml" value="0.3635" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/drawable/ic_busqueda.xml" value="0.3635" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/drawable/ic_delete_white_24dp.xml" value="0.215" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/drawable/ic_share_white_24dp.xml" value="0.215" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/drawable/shape_header.xml" value="0.3635" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/drawable/shape_menu.xml" value="0.3635" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/activity_busq_cliente.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/activity_busq_producto.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/activity_detalle.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/activity_linea_cred.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/activity_menu_animado.xml" value="0.2078125" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/activity_menu_desplegable.xml" value="0.2078125" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/activity_menu_dinamico.xml" value="0.2078125" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/activity_menu_principal.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/activity_pedido.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/activity_producto.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/activity_simple.xml" value="0.2078125" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/activity_sincronizacion.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/activity_sing_up.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/adicional.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/busq_transportista.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/cliente_item.xml" value="0.2078125" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/direccion.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/drawer_list_item.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/footer_option_menu.xml" value="0.2078125" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/item_framework.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/item_inicial.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/item_spinner.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/pedido_item.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/pendiente.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/pendiente_item.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/producto_item.xml" value="0.2078125" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/resumen.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/simple_list_item.xml" value="0.2078125" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/transportista.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/layout/transportista_item.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/menu/menu_main.xml" value="0.2078125" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v4/app/src/main/res/menu/menu_nuevo.xml" value="0.2078125" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v5/app/src/main/res/drawable/ic_carita_feliz.xml" value="0.3405" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v5/app/src/main/res/drawable/ic_dolar.xml" value="0.1945" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v5/app/src/main/res/drawable/ic_percent.xml" value="0.1315" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v5/app/src/main/res/layout/activity_detalle.xml" value="0.24909420289855072" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v5/app/src/main/res/layout/activity_factura_vendedor.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v5/app/src/main/res/layout/activity_login.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v5/app/src/main/res/layout/activity_menu_alterno.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v5/app/src/main/res/layout/activity_producto.xml" value="0.2078125" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v5/app/src/main/res/layout/adicional.xml" value="0.2078125" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v5/app/src/main/res/layout/busq_transportista.xml" value="0.2078125" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v5/app/src/main/res/layout/direccion.xml" value="0.2078125" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v5/app/src/main/res/layout/facturavendedor_item.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v5/app/src/main/res/layout/pedido_item.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v5/app/src/main/res/layout/pendiente_item.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v5/app/src/main/res/layout/producto_item.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v5/app/src/main/res/layout/resumen.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v5/app/src/main/res/layout/transportista.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v5/app/src/main/res/menu/menu_bottom.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v5/app/src/main/res/menu/menu_direccion.xml" value="0.2078125" />
+        <entry key="..\:/2.Desa/Android/Nueva carpeta/PedidoFarmagro_v5/app/src/main/res/menu/menu_transp.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/drawable-hdpi/btn_facebook.xml" value="0.1935" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/drawable-hdpi/btn_fondo_color.xml" value="0.1935" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/drawable-ldpi/btn_facebook.xml" value="0.354" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/drawable-ldpi/btn_redondeado_white.xml" value="0.354" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/drawable-ldpi/item_selector.xml" value="0.1935" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/drawable/background_circle_shape_green.xml" value="0.1" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/drawable/background_circle_shape_red.xml" value="0.1" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/drawable/background_circle_shape_silver.xml" value="0.2" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/drawable/btn_redondeado_white.xml" value="0.1935" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/drawable/circulo_image.xml" value="0.1935" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/drawable/ic__stock3.xml" value="0.198" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/drawable/ic_compra.xml" value="0.198" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/drawable/ic_informativo.xml" value="0.2355" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/drawable/ic_pendiene.xml" value="0.2945" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/drawable/ic_stock1.xml" value="0.2945" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/drawable/ic_stock2.xml" value="0.198" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/drawable/shape_button_login.xml" value="0.1935" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/activity_busq_cliente.xml" value="0.5" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/activity_busq_producto.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/activity_detalle.xml" value="0.20052083333333334" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/activity_factura_vendedor.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/activity_linea_creadito.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/activity_linea_cred.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/activity_login.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/activity_menu_alterno.xml" value="0.33" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/activity_menu_animado.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/activity_menu_dinamico.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/activity_menu_principal.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/activity_pdf.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/activity_pedido.xml" value="0.33" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/activity_producto.xml" value="0.5" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/activity_sincronizacion.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/activity_sing_up.xml" value="0.3484375" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/adicional.xml" value="0.33" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/busq_transportista.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/cliente_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/dialog_fragment_popup.xml" value="0.1954674220963173" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/dialog_fragment_popup_informatico.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/dialog_fragment_pregunta.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/dialog_fragment_pregunta_detalle.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/direccion.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/drawer_list_item.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/fragment_article.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/pedido_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/pendiente.xml" value="0.20677083333333332" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/pendiente_item.xml" value="0.20677083333333332" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/producto_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/producto_stock.xml" value="0.33" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/resumen.xml" value="0.25" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/sincro_item.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/stock_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/transportista.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/layout/transportista_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/menu/menu_adicional.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/menu/menu_bottom.xml" value="0.33" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/menu/menu_busq_prod.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/menu/menu_busq_trans.xml" value="0.20677083333333332" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/menu/menu_detalle.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/menu/menu_direccion.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/menu/menu_editdetalle.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/menu/menu_editflete.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/menu/menu_editpedido.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/menu/menu_edittransp.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/menu/menu_main.xml" value="0.19375" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/menu/menu_nuevo.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/menu/menu_pedido.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/menu/menu_pendiente.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/menu/menu_prod.xml" value="0.3625" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/menu/menu_resumen.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/menu/menu_sincro.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/menu/menu_transp.xml" value="0.18541666666666667" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/xml/file_paths.xml" value="0.20989583333333334" />
+        <entry key="..\:/2.Desa/Android/PedidoFarmagro/app/src/main/res/xml/network_security_config.xml" value="0.3625" />
+        <entry key="..\:/3.Desa/PedidoFarmagro/app/src/main/res/drawable/ic_add_white_24px.xml" value="0.1935" />
+        <entry key="..\:/3.Desa/PedidoFarmagro/app/src/main/res/layout/activity_menu_alterno.xml" value="0.3020833333333333" />
+        <entry key="..\:/3.Desa/PedidoFarmagro/app/src/main/res/layout/activity_menu_animado.xml" value="0.3625" />
+        <entry key="..\:/3.Desa/PedidoFarmagro/app/src/main/res/layout/activity_menu_desplegable.xml" value="0.3625" />
+        <entry key="..\:/3.Desa/PedidoFarmagro/app/src/main/res/layout/activity_menu_dinamico.xml" value="0.3625" />
+        <entry key="..\:/3.Desa/PedidoFarmagro/app/src/main/res/layout/footer_option_menu.xml" value="0.3020833333333333" />
+        <entry key="..\:/3.Desa/PedidoFarmagro/app/src/main/res/menu/menu_bottom.xml" value="0.3625" />
+        <entry key="..\:/3.Desa/PedidoFarmagro/app/src/main/res/menu/menu_nuevo.xml" value="0.18541666666666667" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable-ldpi/item_selector.xml" value="0.234" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable-mdpi/selector_home.xml" value="0.3525" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/background_circle_shape_green.xml" value="0.2895" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/background_circle_shape_silver.xml" value="0.2895" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/dialog_bg.xml" value="0.29" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/estilo_spiner.xml" value="0.234" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/ic_busqueda.xml" value="0.352" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/ic_calendar_new.xml" value="0.352" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/ic_cancel.xml" value="0.29" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/ic_pregunta.xml" value="0.2895" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/ic_spiner.xml" value="0.10400000000000001" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/input.xml" value="0.352" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/item_style.xml" value="0.234" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/progressdialog.xml" value="0.1975" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/selector_buy.xml" value="0.2695" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/selector_configuration.xml" value="0.2695" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/selector_info.xml" value="0.2675" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/selector_map.xml" value="0.2675" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/selector_promo.xml" value="0.268" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/selector_recharge.xml" value="0.2675" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/selector_share.xml" value="0.1975" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/shape_button_login.xml" value="0.1975" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/shape_container_login.xml" value="0.1975" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/shape_header.xml" value="0.1975" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/shape_login.xml" value="0.1975" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/shape_menu.xml" value="0.1975" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/drawable/style_spiner_1.xml" value="0.1" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/activity_busq_cliente.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/activity_busq_producto.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/activity_detalle.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/activity_factura_vendedor.xml" value="0.264" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/activity_login.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/activity_menu_alterno.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/activity_menu_dinamico.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/activity_menu_principal.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/activity_pedido.xml" value="0.4213938411669368" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/activity_producto.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/activity_simple.xml" value="0.3484375" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/activity_sincronizacion.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/activity_sing_up.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/adicional.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/busq_transportista.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/cliente_item.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/custom_progress_dialog.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/dialog_fragment_new.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/dialog_fragment_popup.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/dialog_fragment_pregunta.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/direccion.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/drawer_list_item.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/facturavendedor_item.xml" value="0.4" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/footer_option_menu.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/fragment_article.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/item_framework.xml" value="0.24230072463768115" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/item_framework_one.xml" value="0.14791666666666667" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/item_inicial.xml" value="0.14791666666666667" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/item_spinner.xml" value="0.18541666666666667" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/pedido_item.xml" value="0.4" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/pendiente_item.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/producto_item.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/producto_stock.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/resumen.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/simple_list_item.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/sincro_item.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/stock_item.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/toolbar.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/layout/transportista.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/menu/menu_bottom.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro/app/src/main/res/menu/menu_detalle.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/drawable-ldpi/item_selector.xml" value="0.3275" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/drawable/ic_flecha_sig.xml" value="0.3275" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/drawable/shape_header.xml" value="0.158" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/drawable/shape_menu.xml" value="0.3635" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/activity_busq_cliente.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/activity_busq_producto.xml" value="0.2477355072463768" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/activity_detalle.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/activity_login.xml" value="0.4" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/activity_pedido.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/activity_producto.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/adicional.xml" value="0.2477355072463768" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/busq_transportista.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/cliente_item.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/custom_progress_dialog.xml" value="0.18541666666666667" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/direccion.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/fragment_article.xml" value="0.18541666666666667" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/item_framework.xml" value="0.18541666666666667" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/item_inicial.xml" value="0.18541666666666667" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/pedido_item.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/pendiente.xml" value="0.18541666666666667" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/pendiente_item.xml" value="0.18541666666666667" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/producto_item.xml" value="0.2477355072463768" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/resumen.xml" value="0.2477355072463768" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/transportista.xml" value="0.2477355072463768" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/layout/transportista_item.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/menu/menu_adicional.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/menu/menu_detalle.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/menu/menu_direccion.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/menu/menu_pedido.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/0.Android/PedidoFarmagro_v4/app/src/main/res/menu/menu_transp.xml" value="0.3625" />
+        <entry key="..\:/6.FARMAGRO/PedidoFarmagro/app/src/main/res/drawable-hdpi/btn_facebook.xml" value="0.3" />
+        <entry key="..\:/6.FARMAGRO/PedidoFarmagro/app/src/main/res/drawable-hdpi/btn_fondo_color.xml" value="0.3" />
+        <entry key="..\:/6.FARMAGRO/PedidoFarmagro/app/src/main/res/drawable/btn_redondeado_white.xml" value="0.3" />
+        <entry key="..\:/6.FARMAGRO/PedidoFarmagro/app/src/main/res/drawable/circulo_image.xml" value="0.3" />
+        <entry key="..\:/6.FARMAGRO/PedidoFarmagro/app/src/main/res/drawable/progressdialog.xml" value="0.1565" />
+        <entry key="..\:/6.FARMAGRO/PedidoFarmagro/app/src/main/res/drawable/shape_button_login.xml" value="0.3" />
+        <entry key="..\:/6.FARMAGRO/PedidoFarmagro/app/src/main/res/drawable/shape_container_login.xml" value="0.3" />
+        <entry key="..\:/6.FARMAGRO/PedidoFarmagro/app/src/main/res/drawable/shape_header.xml" value="0.3" />
+        <entry key="..\:/6.FARMAGRO/PedidoFarmagro/app/src/main/res/drawable/shape_menu.xml" value="0.1565" />
+        <entry key="..\:/6.FARMAGRO/PedidoFarmagro/app/src/main/res/layout/activity_linea_cred.xml" value="0.36141304347826086" />
+        <entry key="..\:/6.FARMAGRO/PedidoFarmagro/app/src/main/res/layout/activity_login.xml" value="0.36141304347826086" />
+        <entry key="..\:/6.FARMAGRO/PedidoFarmagro/app/src/main/res/layout/custom_progress_dialog.xml" value="0.33" />
+        <entry key="..\:/6.FARMAGRO/PedidoFarmagro/app/src/main/res/layout/producto_item.xml" value="0.36141304347826086" />
+        <entry key="..\:/6.FARMAGRO/PedidoFarmagro/app/src/main/res/layout/toolbar.xml" value="0.36141304347826086" />
+        <entry key="..\:/6.FARMAGRO/PedidoFarmagro/app/src/main/res/layout/toolbar_layout.xml" value="0.36141304347826086" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

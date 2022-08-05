@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="15dp"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    >
+    <LinearLayout android:orientation="vertical"
+        android:background="@color/blanco"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:paddingTop="3dp"
+            android:text="@string/lblZona"
+            android:textColor="#00305E"/>
+        <Spinner
+            android:id="@+id/spnZona"
+            android:spinnerMode="dropdown"
+            android:paddingTop="3dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:layout_marginBottom="3dp"
+            tools:listitem="@layout/item_framework"
+            android:background="@drawable/style_spiner_1"
+            android:prompt="@string/lblBusqPor"/>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/lblBusqPor"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#00305E"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@color/blanco"
+        android:orientation="horizontal">
+
+        <Spinner
+            android:id="@+id/spnSearch"
+            android:layout_width="55dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:prompt="@string/lblBusqPor"
+            tools:listitem="@layout/item_framework"
+            android:background="@drawable/style_spiner_1"/>
+
+        <EditText
+            android:id="@+id/editFilter"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="4dp"
+            android:layout_weight="2"
+            android:hint="@string/lblSearch"
+            android:inputType="text"
+            android:maxLength="40">
+
+            <requestFocus />
+        </EditText>
+
+        <ImageButton
+            android:id="@+id/imvSearch"
+            android:layout_width="45dp"
+            android:layout_height="49dp"
+            android:layout_marginTop="4dp"
+            android:contentDescription="@string/lblButton"
+            android:background="@drawable/ic_buscarpersona"/>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listClientes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

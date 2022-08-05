@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    android:layout_marginTop="15dp">
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@color/blanco"
+        android:orientation="horizontal">
+
+        <Spinner
+            android:id="@+id/spnSearch"
+            android:layout_width="60dp"
+            android:layout_height="39dp"
+            android:layout_weight="1"
+            tools:listitem="@layout/item_framework"
+            android:background="@drawable/style_spiner_1"
+            android:prompt="@string/lblBusqPor" />
+
+        <EditText
+            android:id="@+id/editFilter"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:layout_weight="2"
+            android:hint="@string/lblSearch"
+            android:inputType="text"
+            android:maxLength="40">
+
+            <requestFocus />
+        </EditText>
+
+        <ImageButton
+            android:id="@+id/imvSearch"
+            android:layout_width="30dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="4dp"
+            android:background="@drawable/ic_buscarpersona"
+            android:contentDescription="@string/lblButton" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listTransportistas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

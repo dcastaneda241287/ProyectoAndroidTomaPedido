@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt"
+    android:orientation="horizontal"
+    android:id="@+id/ll_section_option"
+    android:background="@android:color/transparent"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentStart="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/ib_home"
+            style="@style/Common.TextView.CategoryMain"
+            android:src="@drawable/selector_home" />
+
+        <ImageButton
+            android:id="@+id/ib_info"
+            style="@style/Common.TextView.CategoryMain"
+            android:layout_toRightOf="@+id/tv1"
+            android:src="@drawable/selector_info" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/ib_shipping"
+            style="@style/Common.TextView.CategoryMain"
+            android:layout_width="wrap_content"
+            android:src="@drawable/selector_recharge" />
+
+        <ImageButton
+            android:id="@+id/ib_shape"
+            style="@style/Common.TextView.CategoryMain"
+            android:layout_width="wrap_content"
+            android:src="@drawable/selector_share" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_weight="1">
+
+        <ImageButton
+            android:id="@+id/ib_map"
+            style="@style/Common.TextView.CategoryMain"
+            android:layout_width="wrap_content"
+            android:src="@drawable/selector_map" />
+
+        <ImageButton
+            android:id="@+id/ib_shop"
+            style="@style/Common.TextView.CategoryMain"
+            android:layout_width="wrap_content"
+            android:layout_toRightOf="@+id/tv1"
+            android:src="@drawable/selector_buy" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_weight="1">
+        <ImageButton
+            android:id="@+id/ib_present"
+            android:src="@drawable/selector_promo"
+            style="@style/Common.TextView.CategoryMain"/>
+
+        <ImageButton
+            android:id="@+id/ib_setting"
+            style="@style/Common.TextView.CategoryMain"
+            android:layout_width="wrap_content"
+            android:src="@drawable/selector_configuration" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_weight="1"
+        android:orientation="vertical" />
+</LinearLayout>

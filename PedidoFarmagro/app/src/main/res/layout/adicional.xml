@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    android:layout_marginTop="15dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lblMontoFlete"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#00305E"/>
+
+    <EditText
+        android:id="@+id/editFlete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:inputType="numberDecimal"
+        android:maxLength="8" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/lblOrdenCompra"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#00305E"/>
+
+    <EditText
+        android:id="@+id/editOrden"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:inputType="text"
+        android:maxLength="15" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/lblFecOrden"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#00305E"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/editFecOrden"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:ems="10"
+            android:enabled="false"
+            android:inputType="date" />
+
+        <ImageButton
+            android:id="@+id/btnCal"
+            android:layout_width="2dp"
+            android:layout_height="40dp"
+            android:layout_weight="0.5"
+            android:contentDescription="@string/lblFechaPedido"
+            android:background="@drawable/ic_calendar_new"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/lblDirEntrega"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#00305E"/>
+
+    <Spinner
+        android:id="@+id/spnDirEmb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:listitem="@layout/item_framework"
+        android:background="@drawable/style_spiner_1"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:layout_marginTop="5dp"
+        android:text="Observación"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#00305E"/>
+
+    <EditText
+        android:id="@+id/editDireccion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:maxLength="1000" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:layout_marginTop="3dp"
+        android:text="@string/lblTomoPedido"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:visibility="gone" />
+
+    <Spinner
+        android:id="@+id/spn_tpedido"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+</LinearLayout>

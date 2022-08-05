@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="busqueda">
+        <item>Código</item>
+        <item>Descripción</item>
+    </array>
+    <array name="tipoventa">
+        <item>Contado</item>
+        <item>Crédito</item>
+    </array>
+    <array name="tipoventadetalle">
+        <item>No se aplicarán intereses</item>
+        <item>Se aplicará el 20% mensual</item>
+    </array>
+    <array name="nivelprecio1">
+        <item>6LIMA_SOLES</item>
+        <item>SEMILLAS_SOL</item>
+    </array>
+    <array name="nivelprecio2">
+        <item>6LIMA</item>
+        <item>SEMILLAS</item>
+    </array>
+    <array name="tpedido">
+        <item>Por Teléfono</item>
+        <item>Oficina Cliente</item>
+        <item>Oficina Farmagro</item>
+        <item>Otros</item>
+    </array>
+</resources>

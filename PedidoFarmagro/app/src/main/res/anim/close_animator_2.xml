@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator android:name="close2" android:interpolator="@android:anim/accelerate_decelerate_interpolator" android:duration="300" android:valueFrom="M 20 20.458 L 6 4" android:valueTo="M 1.632 15.842 L 20.579 15.842" android:valueType="pathType" android:propertyName="pathData"/>
+</set>

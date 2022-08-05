@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">FarmaVentas</string>
+
+    <string-array name="Tags">
+        <item>Pedidos</item>
+        <item>Linea de credito</item>
+        <item>Consulta de articulos</item>
+        <item>Enviar / Eliminar pendientes</item>
+        <item>Sincronizacion</item>
+        <item>Salir</item>
+    </string-array>
+
+    <string name="drawer_open">Abrir navigation drawer</string>
+    <string name="drawer_close">Cerrar navigation drawer</string>
+    <string name="headlines">Encabezados de</string>
+    <string name="lblMensaje">Mensaje</string>
+    <string name="lblAceptar">Aceptar</string>
+    <string name="lblUserMissing">Ingrese la placa</string>
+    <string name="lblPwdMissing">Ingrese el password</string>
+    <string name="lblUserFail">Usuario o contraseña incorrectas</string>
+    <string name="lblErrorConnection">Hubo un problema en la conexión</string>
+    <string name="lblErrorApp">Hubo un problema en la aplicación</string>
+
+    <string name="lblLogin">Login</string>
+    <string name="lblClave">Password</string>
+    <string name="lblUsuario">Usuario</string>
+    <string name="lblAcerca">Acerca</string>
+    <string name="lblGuardar">Guardar</string>
+    <string name="lblCancelar">Cancelar</string>
+    <string name="lblpuntos">:</string>
+    <string name="lblFecha">Fecha:</string>
+    <string name="lblDestino">Destino:</string>
+    <string name="lblNro">Nro.:</string>
+    <string name="lblObs">Obs.:</string>
+    <string name="lblPending">Se enviaron los datos pendientes</string>
+    <string name="lblSincroSuccess">Se sincronizó satisfactoriamente</string>
+    <string name="lblFaltaSeleccionar">Debe seleccionar un item</string>
+    <string name="lblSuccessEnvio">Se envió satisfactoriamente</string>
+    <string name="lblSuccessUpdate">Se actualizó satisfactoriamente</string>
+    <string name="lblErrorEnvio">Se produjo un problema en el envío, por favor reenviar por pendientes.</string>
+    <string name="lblErrorUpdate">Se produjo un problema al actualizar.</string>
+    <string name="lblFailEnvio">Hubo un problema en el envío</string>
+    <string name="opcVisita">Atención</string>
+    <string name="opcCierre">Cierre</string>
+    <string name="opcSincro">Sincronizar</string>
+    <string name="opcCheckall">Check All</string>
+    <string name="opcPedido">Pedido</string>
+    <string name="opcGrabar">Grabar</string>
+    <string name="opcBack">Atrás</string>
+    <string name="opcPhoto">Foto</string>
+    <string name="opcHome">Home</string>
+    <string name="opcEliminar">Eliminar</string>
+    <string name="opcEnviar">Enviar</string>
+    <string name="opcNext">Siguiente</string>
+    <string name="opcBusqueda">Buscar</string>
+    <string name="lblHora">Hora de Llegada:</string>
+    <string name="lblKmInicio">Km. Inicio:</string>
+    <string name="lblKmFin">Km. Fin:</string>
+    <string name="lblPersonal">Personal:</string>
+    <string name="lblSearch">Ingresar Datos</string>
+    <string name="lblBusqPor">Buscar Por:</string>
+    <string name="lblButton">Botón</string>
+    <string name="lblZona">Zona:</string>
+    <string name="lblCodigo">Código:</string>
+    <string name="lblRazon">Razón Social:</string>
+    <string name="lblLimCred">Límite de crédito:</string>
+    <string name="lblSaldoDol">Saldo dólar:</string>
+    <string name="lblTipoVenta">Tipo de venta:</string>
+    <string name="lblFormaPago">Forma de pago:</string>
+    <string name="lblCondicionPago">Condición pago:</string>
+    <string name="lblLetras">#Letras:</string>
+    <string name="lblInicioLetra">Inicio 1era letra:</string>
+    <string name="lblSeparacion">Separación:</string>
+    <string name="lblDocumento">Documento a generar:</string>
+    <string name="lblMoneda">Moneda:</string>
+    <string name="lblNivelPrecio">Nivel de precio:</string>
+    <string name="lblAlmacen">Almacén:</string>
+    <string name="lblCodAlmacen">Cod. Almacén:</string>
+    <string name="lblFechaPedido">Fecha Pedido:</string>
+    <string name="cabTotal">Total:</string>
+    <string name="lblCantPed">C.Ped:</string>
+    <string name="lblCantidad">Cantidad:</string>
+    <string name="lblCantFac">C.Fac:</string>
+    <string name="lblPorDscto">Dscto %:</string>
+    <string name="lblUnidad">Unidad:</string>
+    <string name="lblPrecio">Precio:</string>
+    <string name="lblDescripcion">Descripción:</string>
+    <string name="lblPrecUnid">Precio unitario(L):</string>
+    <string name="lblIGV">IGV:</string>
+    <string name="lblStock">Stock:</string>
+    <string name="lblUnidVta">Unidad de venta:</string>
+    <string name="lblConsultArti">Cantidades por Bodega:</string>
+    <string name="lblDscto">Desct:</string>
+    <string name="lblTotal">Total:</string>
+    <string name="lblEmbarque">Embarque a:</string>
+    <string name="lblDireccion">Dirección:</string>
+    <string name="lblDirecCobro">Dirección de cobro:</string>
+    <string name="lblMontoFlete">Monto de flete:</string>
+    <string name="lblOrdenCompra">Orden de compra:</string>
+    <string name="lblFecOrden">Fecha de orden:</string>
+    <string name="lblDirEntrega">Dirección de Entrega:</string>
+    <string name="lblTomoPedido">¿Cómo tomo el pedido?:</string>
+    <string name="lblTotalVenta">Total Valor de Venta:</string>
+    <string name="lblTotalIgv">Total impuesto IGV:</string>
+    <string name="lblTotalFacturar">Total a facturar:</string>
+    <string name="lblTotalFact">Tot Fact.:</string>
+    <string name="lblTotalPen">Tot Pend.:</string>
+    <string name="lbldescuentoestructurado">Tipo Descuento:</string>
+
+    <string name="lblRUC">RUC:</string>
+    <string name="lblEstado">Activo:</string>
+    <string name="lblCobroJud">Cobro Judicial:</string>
+    <string name="lblCondPAago">Condición Pago:</string>
+    <string name="lblLetraPendiente">Letras Pendientes de Firma:</string>
+    <string name="lblLimiteCredito">Límite de Crédito:</string>
+    <string name="lblSaldo">Saldo:</string>
+    <string name="lblDescargar">Descargar Reporte</string>
+
+    <string name="cargando">Cargando..</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="contado">No se aplicaran intereses</string>
+    <string name="credito">Se aplicarán 20% mensual</string>
+
+    <string name="title_action_cut">Cut</string>
+    <string name="title_action_copy">Copy</string>
+    <string name="title_action_delete">Delete</string>
+    <string name="title_action_share">Share</string>
+
+    <string name="title_bar_busqueda_cliente">Búsqueda de Clientes</string>
+    <string name="title_bar_pedido">Datos Generales</string>
+    <string name="title_bar_detalle">Detalle del Pedido</string>
+    <string name="title_bar_busq_producto">Búsqueda de Productos</string>
+    <string name="title_bar_producto">Detalle del Producto</string>
+    <string name="title_bar_direccion">Direcciones</string>
+    <string name="title_bar_busq_trans">Búsqueda de Transportista</string>
+    <string name="title_bar_trans">Transportista</string>
+    <string name="title_bar_adicional">Datos Adicionales</string>
+    <string name="title_bar_resumen">Resumen Montos</string>
+    <string name="title_bar_facvendedor">Avance de Ventas</string>
+    <string name="title_bar_sincro">Sincronización</string>
+    <string name="title_bar_stock">Consulta de Stock</string>
+    <string name="title_bar_stock_detalle">Detalle del Producto</string>
+    <string name="title_bar_linea_credtio">Línea de Crédito</string>
+
+    <string name="popup_tv_click_cancel">CANCELAR</string>
+    <string name="popup_tv_click_continue">CONTINUAR</string>
+    <string name="popup_tv_click_close">CERRAR</string>
+</resources>

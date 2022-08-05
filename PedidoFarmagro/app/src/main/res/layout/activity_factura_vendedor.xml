@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    android:id="@+id/ll_factura_rep">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/llMensajeDatos"
+        android:visibility="invisible">
+
+        <TextView
+            android:id="@+id/txtMensajeDatos"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:background="@drawable/shape_header"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center_vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="@string/lblTotalFact"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginLeft="4dp"
+            android:textColor="@color/blanco"/>
+
+        <TextView
+            android:id="@+id/txtTotalFact"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/blanco"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="@string/lblTotalPen"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/blanco"/>
+        <TextView
+            android:id="@+id/txtTotalPen"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/blanco"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"/>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listFact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp" />
+</LinearLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_back"
+        android:id="@+id/opcBackPedido"
+        android:title="@string/opcBack"
+        app:showAsAction="always"/>
+    <item
+        android:icon="@drawable/ic_action_search"
+        android:id="@+id/opcBuscar"
+        android:title="@string/opcBusqueda"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/ic_grabar"
+        android:id="@+id/opcSavePedido"
+        android:title="@string/opcGrabar"
+        app:showAsAction="always" />
+</menu>

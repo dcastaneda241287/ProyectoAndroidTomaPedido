@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_home" android:id="@+id/opcDhome" android:title="@string/opcHome" android:showAsAction="always"/>
+    <item android:icon="@drawable/ic_action_search" android:id="@+id/opcDBuscar" android:title="@string/opcBusqueda" android:showAsAction="always"/>
+    <item android:icon="@drawable/ic_grabar" android:id="@+id/opcDSave" android:title="@string/opcGrabar" android:showAsAction="always"/>
+    <item android:icon="@drawable/ic_next" android:id="@+id/opcDNext" android:title="@string/opcNext" android:showAsAction="always"/>
+</menu>
